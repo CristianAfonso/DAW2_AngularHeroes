@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#Descripción del alumno:
+En este proyecto podemos encontrar la implementación de un tutorial que encontramos en el siguiente enlace: https://angular.io/tutorial
+siguiéndolo al pie de la letra llegamos al punto en el que se encuentra este proyecto, despues de 6 pasos hemos conseguido crear un editor de héroes,
+mostrar la lista de héroes, editar los detalles de componentes de héroes, hemos aprendido a añadir servicios y, tras implementar una navegación, obtenemos la 
+información de un servidor propio.
